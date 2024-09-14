@@ -1,0 +1,7 @@
+{
+    "C_Cpp.autocompleteAddParentheses": true,
+    "php-intellisense.trace.server": "verbose",
+    "php.files.exclude": [
+        
+    ]
+}
